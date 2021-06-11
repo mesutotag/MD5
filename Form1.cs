@@ -19,8 +19,7 @@ namespace MD5_SIFRELEME
             InitializeComponent();
         }
 
-         static string vv = "";
-
+        
         private void btnsifrele_Click(object sender, EventArgs e)
         {
             // şifrelenen texti textBox2.Text ne yazdırdık
